@@ -1,0 +1,14 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 900px;
+    margin: auto;
+}
+header ul li{
+    list-style: none;
+    display: inline;
+    margin: 5px;
+}
+header ul li a{
+    text-decoration: none;
+    font-size: 30px;
+}
