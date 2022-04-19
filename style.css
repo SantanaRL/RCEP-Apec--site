@@ -1,7 +1,11 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    width: 900px;
+    max-width: 900px;
     margin: auto;
+}
+header{
+    margin: auto;
+    text-align: center;
 }
 header ul li{
     list-style: none;
